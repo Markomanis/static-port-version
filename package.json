@@ -1,0 +1,27 @@
+{
+  "name": "magicocoding-2",
+  "version": "1.0.0",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techbeeyt/magiccoding-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/techbeeyt/magiccoding-2/issues"
+  },
+  "homepage": "https://github.com/techbeeyt/magiccoding-2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.3"
+  }
+}
